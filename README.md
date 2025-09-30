@@ -9,3 +9,12 @@ The purpose of this project is to perform an Explorary Data Analysis of televisi
 # Objectives
 
 Import, clean and prepare the viewership dataset using Pandas to ensure accuracy and reliablity explore descriptive statistics and distributions of key variables such as total time watched, platform, play event type and videotitle. Gather the viewership 
+
+# Tools Used
+
+Python mainly pandas 
+SQL databricks
+Canvas for mindmap
+Google looker studio
+
+# Summary Results
